@@ -24,32 +24,35 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 ## Ad esse sit nostrud est sit sunt
 
 Miðja | Vinstri | Hægri
-:--: | :-- | --: .
+:--: | :-- | --: 
 12 | 34 | 56
 tempor | et | fugiat
 
-Eiusmod tempor et fugiat
+### Eiusmod tempor et fugiat
 
 ```mermaid
-
+pie title Töflur úr töflunni hér að ofan
+    "Miðja" : 12
+    "Vinstri" : 34
+    "Hægri" : 56
 ```
 
-Dolore ut velit
+### Dolore ut velit
 
-
+```arduino
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
 }
+```
+## Commodo occaecat
 
-Commodo occaecat
-
-Incididunt
-laborum
-mollit
-cupidatat
-laboris
-anim
+1. Incididunt
+1. laborum
+    1. mollit
+    1. cupidatat
+1. laboris
+1. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
