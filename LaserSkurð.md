@@ -13,3 +13,6 @@
 
 ### Kassi fyrir Arduino SVG
 ![drawing](drawing.svg)
+
+### Spjald mynd
+![pic](20220318_123028.jpg)
