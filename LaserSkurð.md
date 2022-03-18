@@ -8,5 +8,8 @@
 ### Spjald SVG
 ![laser](Laser.svg)
 
+### Kassi fyrir Arduino PNG
+![drawing](drawing.png)
+
 ### Kassi fyrir Arduino SVG
 ![drawing](drawing.svg)
