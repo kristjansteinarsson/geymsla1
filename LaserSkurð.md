@@ -7,3 +7,6 @@
 
 ### Spjald SVG
 ![laser](Laser.svg)
+
+### Kassi fyrir Arduino SVG
+![drawing](drawing.svg)
