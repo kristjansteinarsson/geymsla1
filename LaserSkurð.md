@@ -16,3 +16,6 @@
 
 ### Spjald mynd
 ![pic](20220318_123028.jpg)
+
+### Kassi fyrir Arduino mynd
+![box](Screenshot_20220325-122737_Gallery.jpg)
